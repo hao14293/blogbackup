@@ -26,7 +26,7 @@
 
 {% if theme.footer.powered %}
   <div class="powered-by">{#
-  #}{{ __('footer.powered', '<a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a>') }}{#
+  #}{{ __('footer.powered', '<a class="theme-link" target="_blank" href="https://github.com/hao14293">Github</a>') }}{#
 #}</div>
 {% endif %}
 

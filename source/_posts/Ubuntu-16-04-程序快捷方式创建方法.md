@@ -33,4 +33,4 @@ Categories=Application;Development;
 </code></pre>
 把<code>Exec</code>和<code>Icon</code>改为你的地址。<br><br>
     最后
-<pre>sudo chmod u+x Pycharm.desktop</pre>
+<pre>sudo chmod u+x Eclipse.desktop</pre>
