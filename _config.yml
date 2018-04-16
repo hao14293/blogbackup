@@ -5,7 +5,7 @@
 # Site
 title: "诗意"
 subtitle:
-description: [诗意,算法,Python,Linux,Ubuntu,]
+description: [诗意, 算法, Python, Linux, Ubuntu, vpn, shadowsocks, ]
 author: hao14293
 language: zh-Hans
 timezone:
@@ -78,7 +78,9 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hao14293/hao14293.github.io.git
+  repo: 
+    github: https://github.com/hao14293/hao14293.github.io.git
+    coding: git@git.coding.net:hao14293/hao14293.github.io.git
   branch: master
   
 search:

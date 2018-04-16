@@ -6,6 +6,7 @@
 <meta name="baidu-site-verification" content="XpsoxT0kWM" />
 <meta name="google-site-verification" content="kDX9LJIt0D08YC9gYy9Xnx66ikpunTEjoiAR_VUsPGI" />
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-4949823015495880", enable_page_level_ads: true }); </script>
 
 {% if theme.pace %}
   {% set pace_css_uri = url_for(theme.vendors._internal + '/pace/'+ theme.pace_theme +'.min.css?v=1.0.2') %}

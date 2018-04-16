@@ -37,8 +37,8 @@
 {% if theme.footer.theme.enable %}
   <div class="theme-info">{#
   #}{{ __('footer.theme') }} <!--&mdash--> {#
-  #}<a class="theme-link" target="_blank" href="https://pages.github.com/">{#
-    #}Github Pages{#
+  #}<a class="theme-link" target="_blank" href="https://pages.coding.me/">{#
+    #}Coding Pages{#
   #}</a>{% if theme.footer.theme.version %} v{{ theme.version }}{% endif %}{#
 #}</div>
 {% endif %}
