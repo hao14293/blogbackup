@@ -6,6 +6,25 @@
 <meta name="baidu-site-verification" content="XpsoxT0kWM" />
 <meta name="google-site-verification" content="kDX9LJIt0D08YC9gYy9Xnx66ikpunTEjoiAR_VUsPGI" />
 
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1f9275f266e86ad480c31dd61af561fe";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+
+
+
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-4949823015495880", enable_page_level_ads: true }); </script>
 
 {% if theme.pace %}
