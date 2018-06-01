@@ -13,6 +13,7 @@ date: 2018-04-17 08:57:48
 <script src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js"></script>```
 就可以了。<br>
 源码这里也搬运一下
+<!--more-->
 ```sh
 /**
  * Copyright (c) 2016 hustcc
