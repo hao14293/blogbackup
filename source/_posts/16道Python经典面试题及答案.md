@@ -105,7 +105,7 @@ try下的语句正常执行，则执行else块代码。如果发生异常，就�
 
 <b>9.介绍一下Python下range()函数的用法？</b>
 
-答：列出一组数据，经常用在<code>for in range()</code>循环中.
+答：列出一组数据，经常用在<code>for in range()</code>循环中..
 
 <b>10.如何用Python来进行查询和替换一个文本字符串？</b>
 
